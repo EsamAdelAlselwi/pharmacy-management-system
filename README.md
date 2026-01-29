@@ -36,31 +36,31 @@ The source code is kept private to protect intellectual property.
 
 ## 📸 Screenshots
 
-> **Note:** Paths are case-sensitive. All screenshots are located in the `screenshots` folder.
+> **Note:** All screenshots use direct Raw links from GitHub. Ensure the file names match exactly (case-sensitive).
 
 ### 🔹 01_Login Screen
-![Login](https://github.com/EsamAdelAlselwi/pharmacy-management-system/raw/main/screenshots/Login.png)
+![Login](https://raw.githubusercontent.com/EsamAdelAlselwi/pharmacy-management-system/main/screenshots/Login.png)
 
 ### 🔹 02_Dashboard
-![Dashboard](https://github.com/EsamAdelAlselwi/pharmacy-management-system/raw/main/screenshots/Dashboard.png)
+![Dashboard](https://raw.githubusercontent.com/EsamAdelAlselwi/pharmacy-management-system/main/screenshots/Dashboard.png)
 
 ### 🔹 03_Medicine Interface
-![Medicine](https://github.com/EsamAdelAlselwi/pharmacy-management-system/raw/main/screenshots/medicine.png)
+![Medicine](https://raw.githubusercontent.com/EsamAdelAlselwi/pharmacy-management-system/main/screenshots/medicine.png)
 
 ### 🔹 04_Suppliers Page
-![Suppliers](https://github.com/EsamAdelAlselwi/pharmacy-management-system/raw/main/screenshots/Suppliers.png)
+![Suppliers](https://raw.githubusercontent.com/EsamAdelAlselwi/pharmacy-management-system/main/screenshots/Suppliers.png)
 
 ### 🔹 05_Incoming Page
-![Incoming](https://github.com/EsamAdelAlselwi/pharmacy-management-system/raw/main/screenshots/Incoming.png)
+![Incoming](https://raw.githubusercontent.com/EsamAdelAlselwi/pharmacy-management-system/main/screenshots/Incoming.png)
 
 ### 🔹 06_Outgoing Page
-![Outgoing](https://github.com/EsamAdelAlselwi/pharmacy-management-system/raw/main/screenshots/outgoing.png)
+![Outgoing](https://raw.githubusercontent.com/EsamAdelAlselwi/pharmacy-management-system/main/screenshots/outgoing.png)
 
 ### 🔹 07_Inventory Interface
-![Inventory](https://github.com/EsamAdelAlselwi/pharmacy-management-system/raw/main/screenshots/inventory.png)
+![Inventory](https://raw.githubusercontent.com/EsamAdelAlselwi/pharmacy-management-system/main/screenshots/inventory.png)
 
 ### 🔹 08_Purchase Interface
-![Purchase](https://github.com/EsamAdelAlselwi/pharmacy-management-system/raw/main/screenshots/purchase.png)
+![Purchase](https://raw.githubusercontent.com/EsamAdelAlselwi/pharmacy-management-system/main/screenshots/purchase.png)
 
 ---
 
