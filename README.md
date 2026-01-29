@@ -1,70 +1,72 @@
 # 💊 Pharmacy Management System (JavaFX)
 
-> ⚠️ **For Showcase Only — Source code is not included**  
+> ⚠️ **For Showcase Only — Source code is not included**  
 > 🚫 This repository is for portfolio presentation only. Do not copy or reuse the design.
 
 ---
 
 ## 📋 Overview
 
-This project is a desktop-based pharmacy management system built using JavaFX and MySQL.  
-It includes features for managing medicines, sales, reports, and users (Admin & Cashier).  
-This repository displays the interface screenshots only.  
+This project is a desktop-based pharmacy management system built using JavaFX and MySQL.  
+It includes features for managing medicines, sales, reports, and users (Admin & Cashier).  
+This repository displays the interface screenshots only.  
 The source code is kept private to protect intellectual property.
 
 ---
 
 ## 🔑 Features
 
-- Add, edit, delete medicines  
-- Manage sales and generate invoices  
-- Customer and stock management  
-- Daily and monthly reports  
+- Add, edit, delete medicines  
+- Manage sales and generate invoices  
+- Customer and stock management  
+- Daily and monthly reports  
 - Secure login system with roles
 
 ---
 
 ## 🛠️ Technologies Used
 
-- Java 11  
-- JavaFX 17  
-- MySQL  
-- SceneBuilder  
+- Java 11  
+- JavaFX 17  
+- MySQL  
+- SceneBuilder  
 - Maven / NetBeans
 
 ---
 
 ## 📸 Screenshots
 
-### 🔹 Login Screen  
-![Login](screenshots/Login.png)
+> **Note:** Paths are case-sensitive. All screenshots are located in the `screenshots` folder.
 
-### 🔹 Dashboard  
-![Dashboard](screenshots/Dashboard.png)
+### 🔹 01_Login Screen
+![Login](https://github.com/EsamAdelAlselwi/pharmacy-management-system/raw/main/screenshots/Login.png)
 
-### 🔹 Medicine Interface  
-![Medicine](screenshots/medicine.png)
+### 🔹 02_Dashboard
+![Dashboard](https://github.com/EsamAdelAlselwi/pharmacy-management-system/raw/main/screenshots/Dashboard.png)
 
-### 🔹 Suppliers Page  
-![Suppliers](screenshots/Suppliers.png)
+### 🔹 03_Medicine Interface
+![Medicine](https://github.com/EsamAdelAlselwi/pharmacy-management-system/raw/main/screenshots/medicine.png)
 
-### 🔹 Incoming Page  
-![Incoming](screenshots/Incoming.png)
+### 🔹 04_Suppliers Page
+![Suppliers](https://github.com/EsamAdelAlselwi/pharmacy-management-system/raw/main/screenshots/Suppliers.png)
 
-### 🔹 Outgoing Page  
-![Outgoing](screenshots/outgoing.png)
+### 🔹 05_Incoming Page
+![Incoming](https://github.com/EsamAdelAlselwi/pharmacy-management-system/raw/main/screenshots/Incoming.png)
 
-### 🔹  Inventory Interface
-![Inventory](screenshots/inventory.png)
+### 🔹 06_Outgoing Page
+![Outgoing](https://github.com/EsamAdelAlselwi/pharmacy-management-system/raw/main/screenshots/outgoing.png)
 
-### 🔹  Purchase Interface
-![Purchase](screenshots/purchase.png)
+### 🔹 07_Inventory Interface
+![Inventory](https://github.com/EsamAdelAlselwi/pharmacy-management-system/raw/main/screenshots/inventory.png)
+
+### 🔹 08_Purchase Interface
+![Purchase](https://github.com/EsamAdelAlselwi/pharmacy-management-system/raw/main/screenshots/purchase.png)
 
 ---
 
 ## 🔒 License
 
-This project is for **educational and portfolio purposes only**.  
-**No source code is provided**.  
-All rights reserved © 2025 — Esam Adel Alselwi  
+This project is for **educational and portfolio purposes only**.  
+**No source code is provided.**  
+All rights reserved © 2026 — Esam Adel Alselwi  
 Contact: esamalselwi404@gmail.com
