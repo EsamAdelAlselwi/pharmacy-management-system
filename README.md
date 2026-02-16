@@ -36,8 +36,6 @@ The source code is kept private to protect intellectual property.
 
 ## 📸 Screenshots
 
-> **Note:** All screenshots use direct Raw links from GitHub. Ensure the file names match exactly (case-sensitive).
-
 ### 🔹 01_Login Screen
 ![Login](https://raw.githubusercontent.com/EsamAdelAlselwi/pharmacy-management-system/main/screenshots/Login.png)
 
